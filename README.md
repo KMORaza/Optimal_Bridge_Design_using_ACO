@@ -1,4 +1,4 @@
-## Optimizing structural design of bridge using ant colony optimization 
+## Optimales Brückendesign mittels Ameisenkolonie-Optimierung (Optimizing structural design of bridge using ant colony optimization) 
 
 ### Overview
   - Load Requirements:  
