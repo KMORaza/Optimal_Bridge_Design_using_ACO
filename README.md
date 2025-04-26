@@ -23,6 +23,7 @@ Subject to:
     2. Dynamic load capacity ≥ Required dynamic load  
     3. Cost ≤ $5000  
 
+---
 
 ### Solution Steps
 
